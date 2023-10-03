@@ -1,0 +1,237 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 13:45:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 13:45:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 13:45:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 13:46:10] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 13:50:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 13:50:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 13:50:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 13:50:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 13:50:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 14:58:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 14:58:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 14:58:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 14:58:15] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:01:26] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:02:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:02:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:02:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'samsung', 'Name': 'Pradum Yadav', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Camera quality is very good'}, {'Product': 'samsung', 'Name': 'Vikas Saroj', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Really good product but charging adapter should be given by company'}, {'Product': 'samsung', 'Name': 'Pritam  Singh', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Back camera is goodDisplay is smooth but it support 2k only'}, {'Product': 'samsung', 'Name': 'SANDHYA  Singh', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'If u want decent and sturdy phone in low price than go for it love this phone'}, {'Product': 'samsung', 'Name': 'Anand  T', 'Rating': '1', 'CommentHead': 'Very poor', 'Comment': 'Speaker and Mike not functioning properly after 6 days of purchase'}, {'Product': 'samsung', 'Name': 'Macwin Barbose', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Thanks to flipkart nice phone'}, {'Product': 'samsung', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Its too good. I always use samsung duento the quality, privacy and memory. But charger should also be given with the new mobile phone.'}, {'Product': 'samsung', 'Name': 'Subrat Sahu', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Mind blowing'}, {'Product': 'samsung', 'Name': 'JITENDRA KUMAR PADHAN JITENDRA KUMAR PADHAN', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'One of best camera phone samsug m14Must buy'}, {'Product': 'samsung', 'Name': 'Soumya Ranjan Behera', 'Rating': '3', 'CommentHead': 'Fair', 'Comment': "It is 6000mah batterySo why my mobile's battery drain so fast I don't use any app in my background \U0001f611"}, {'Product': 'samsung', 'Name': 'Soumya Ranjan Behera', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "It is 6000mah batterySo why my mobile's battery drain so fast I don't use any app in my background \U0001f611"}]
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:02:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:02:29] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:02:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:03:07] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:09:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:09:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:09:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:'int' object is not iterable
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:09:07] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:18:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:18:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:18:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:HTTP Error 429: Too Many Requests
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:18:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:local variable 'name' referenced before assignment
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:27:39] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone15', 'Name': 'Rohit Nandal', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Great processor  and so light and great profermance'}, {'Product': 'iphone15', 'Name': 'jitender kumar', 'Rating': '1', 'CommentHead': 'Did not meet expectations', 'Comment': 'Heating issue. Feeling like a Heater.'}, {'Product': 'iphone15', 'Name': 'Hiran Kurup', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Excellent product and super fast delivery from flipkart'}, {'Product': 'iphone15', 'Name': 'Shravan Raikar', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Purchased this product on flipkart and arrived 10 days later.Unboxing was done by the delivery person and once satisfied otp was taken.So far i have observed heating issues only while setting up the phone. Rest of the time there is no heating. No heating observed on gaming and day to day activities. Mildly hot during charging.Product performance and camera is excellent.Battery life is amazing after latest update. I am a heavy user and am able to get one full day of charge.Overall ...'}, {'Product': 'iphone15', 'Name': 'Shravan Raikar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Purchased this product on flipkart and arrived 10 days later.Unboxing was done by the delivery person and once satisfied otp was taken.So far i have observed heating issues only while setting up the phone. Rest of the time there is no heating. No heating observed on gaming and day to day activities. Mildly hot during charging.Product performance and camera is excellent.Battery life is amazing after latest update. I am a heavy user and am able to get one full day of charge.Overall ...'}]
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:28:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:28:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.43.140 - - [03/Oct/2023 15:28:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\Portfolio projects\\WebScraping\\scrap\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.140:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 134-818-559
